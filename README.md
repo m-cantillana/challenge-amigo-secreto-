@@ -17,6 +17,8 @@ Podrán agregar la cantidad de amigos que quieran para jugar.
 ## :clipboard: Instrucciones para jugar:
 
     1) Deben ingresar a la siguiente URL: 
+[Amigo secreto](https://challenge-amigo-secreto-ocz3.vercel.app/)
+
     2) Les a parecerá la siguiente pantalla: 
  ![pantalla-inicial-amigo-secreto](https://github.com/user-attachments/assets/27538a43-d56f-4b4c-b74e-d61f2df9ee2f)
 
